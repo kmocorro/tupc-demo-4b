@@ -9,9 +9,10 @@ const OurMission = () => {
       <div className={styles.label}>
         <h2>Our Mission</h2>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in
-          ornare augue, sed fermentum libero. In finibus felis non quam
-          vulputate porta.
+          The University shall provide higher and advanced vocational,
+          technical, industrial, technological and professional education and
+          training in industries and technology, and in practical arts leading
+          to certificates, diplomas and degrees.
         </p>
       </div>
     </div>
