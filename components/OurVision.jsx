@@ -6,9 +6,9 @@ const OurVision = () => {
       <div className={styles.label}>
         <h2>Our Vision</h2>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in
-          ornare augue, sed fermentum libero. In finibus felis non quam
-          vulputate porta.
+          TUP: A premier state university with recognized excellence in
+          engineering and technology education at par with leading universities
+          in the ASEAN region.
         </p>
       </div>
       <div className={styles.image}>
