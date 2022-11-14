@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  align-items: center;
+  background-color: #c51f3b;
+  padding: 36px;
+  color: white;
+}
+
+.label > h2 {
+  font-size: 64px;
+}
+
+.label > p {
+  font-size: 36px;
+}
+
+.image > img {
+  width: 400px;
+  height: 400px;
+  margin: 40px;
+  padding: 20px 0 0 0;
+}

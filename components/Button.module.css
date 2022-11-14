@@ -1,0 +1,27 @@
+.primary {
+  width: 140px;
+  height: 60px;
+  color: white;
+  background-color: #c51f3b;
+  border: 1px solid #c51f3b;
+  cursor: pointer;
+  font-size: 24px;
+}
+
+.primary:hover {
+  background-color: #9f192f;
+}
+
+.secondary {
+  width: 140px;
+  height: 60px;
+  color: black;
+  background-color: white;
+  border: 1px solid white;
+  cursor: pointer;
+  font-size: 24px;
+}
+
+.secondary:hover {
+  text-decoration: underline;
+}
